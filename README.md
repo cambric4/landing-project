@@ -2,3 +2,4 @@
 <p>08/31 - Created index.html and style.css</p>
 <p>09/01 - Edited index.html to add what I believe is all the elements I need for this project.</p>
 <p>09/02 - Edited both index.html to add and change a couple of classes, I believe I changed "left-words" to "left-text" and added "info-subtext" to the ul and li. Edited style.css to get the foundation of the website set before I go in to make it look better and more like the assignment "Landing-page" in the Odin Project. </p>
+<p>09/04 - Edited index.html by adding in a div class "info-img" to the information section of the page. And added a div around all of the information section of the page. Edited style.css to add specifications to everything in the "div class 'header'" and "div class 'content'" to make it look more like the Odin Project assignment. I believe I also made the quote look as it is supposed to. Starting to work on the rest of the page now.</p>
